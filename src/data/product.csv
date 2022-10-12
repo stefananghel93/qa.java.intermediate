@@ -1,0 +1,6 @@
+id,name,price ,category,rating,discountPercentage,isAvailable
+123,Apple,3.25,Fruits,4.7,10,FALSE
+321,Soap,2.15,Body Care,4.5,8,TRUE
+456,Pen,1.29,Office Supplies,5.6,5,TRUE
+234,Desk,56,Furniture,4.8,7,FALSE
+678,Sofa,65.9,Household,4.9,7.5,TRUE
