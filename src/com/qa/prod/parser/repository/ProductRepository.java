@@ -1,4 +1,4 @@
-package co.qa.prod.parser.repository;
+package com.qa.prod.parser.repository;
 import java.util.List;
 
 import com.qa.prod.parser.bean.Product;
@@ -17,4 +17,5 @@ public class ProductRepository {
 		 return this.prodList;
 	}
 
+    
 }
